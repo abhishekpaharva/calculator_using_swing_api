@@ -1,5 +1,5 @@
 # calculator_using_swing_api
-> A simple calculator with GUI using java swing api.
+> A basic calculator with GUI using java swing api.
 
 # How to use
 
